@@ -18,6 +18,18 @@
 
 # 📊 GitHub Stats:
 
+<div> 
+
+ 
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=AnjaleeL&theme=dark&background=000000&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AnjaleeL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnjaleeL&theme=tokyonight&hide_border=false)
+
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeL&layout=compact&theme=tokyonight)
+ 
 
 
 
